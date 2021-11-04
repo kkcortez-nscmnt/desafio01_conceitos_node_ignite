@@ -1,7 +1,7 @@
 ## Desafio 1 - Conceitos Node.js
 
 ### Criação de um gerenciadior de tarefas todos ("to dos").
-O desafio consiste na prática e uso do conteúdo que foi apresentado no Cápitulo I da jornada Ignite Node.js, acrescentando novos conceitos e tecnologias.
+O desafio consiste na prática e uso do conteúdo que foi apresentado no Capítulo I da jornada Ignite Node.js, acrescentando novos conceitos e tecnologias.
 
 O estilo de resolução de baseia nos preceitos do desenvolvimento orientado a testes __TDD__ (Test Driven Development), com auxilio das dependências de desenvolvimento Jest e supertest.
 
